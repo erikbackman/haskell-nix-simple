@@ -1,4 +1,4 @@
-# Simple haskell project using
+# Simple haskell project using Nix
 
 ## Building
 ``` sh
